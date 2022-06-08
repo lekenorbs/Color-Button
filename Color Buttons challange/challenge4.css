@@ -1,0 +1,59 @@
+.challenge4{
+    margin: auto;
+    width: 85%;
+    border: 2px solid black;
+    
+}
+
+.challenge4 h1{
+    justify-content: center;
+    color: green;
+    text-align : center;
+    font-weight: bold;
+}
+
+.flex-box-4{
+    padding: 10px;
+    margin: auto;
+    width: 85%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.form{
+    border-radius: 5px;
+    background-color: brown;
+}
+/*
+    .flex-box-4 div{
+    border-radius: 5px;
+    width: 10%;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.wee {
+    color: white;
+    background-color: blue;
+}
+.yahoo{
+     color: white;
+    background-color: red;
+
+
+}
+ .google{
+     color: black;
+    background-color: yellow;
+
+}
+ 
+ .facebook{
+    color: white;
+    background-color: green;
+}
+*/
